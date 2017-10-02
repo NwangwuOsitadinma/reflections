@@ -6,3 +6,6 @@ the staging area contains files you want to work on as part of a logical change,
 
 How can you use the staging area to make sure you have one commit per logical change?
 you can use the staging area to make sure you have one commit per logical by staging only files that are part of the logical change 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+when you want to try something that you dont want to affect the main branch of your project
